@@ -1,2 +1,4 @@
 # odin-recipes
-First Project on TheOdinProject
+1. Project on TheOdinProject
+
+A small HTML-only Website for recipes, introduction to HTML. 
