@@ -1,6 +1,9 @@
 body {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 18px;
+    box-sizing: border-box;
+    width: 600px;
+    margin: 20px;
 }
 
 h1 {
@@ -17,4 +20,29 @@ h2 {
 .credits {
     font-size: 15px;
     padding-top: 10px;
+}
+
+.recipes-menu {
+    display: flex;
+    gap: 10px;
+
+
+}
+
+.menu-card {
+    width: 300px;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+.menu-card img {
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+.introduction {
+    background-color: rebeccapurple;
+    color: white;
+    padding: 20px;
+    
 }
